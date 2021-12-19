@@ -1,1 +1,2 @@
-# p5test
+# p5test - PWA exercise
+
