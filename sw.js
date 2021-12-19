@@ -11,7 +11,6 @@ if (swUrl.includes("localhost") === false) {
     }
 }
 
-
 const APPSHELL = [
               root + "/app.js",
               root + "/style.css",
