@@ -1,0 +1,22 @@
+{
+    "short_name": "p5test",
+    "name": "p5test",
+    "description": "p5 pwa test",
+    "start_url": "./",
+    "background_color": "#3367D6",
+    "theme_color": "#3367D6",
+    "display": "standalone",
+    "orientation": "portrait",
+    "icons": [
+    {
+      "src": "./look/icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "./look/icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+    ]
+}

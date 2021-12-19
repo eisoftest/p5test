@@ -1,0 +1,17 @@
+
+body {
+    height: 100%;
+    background-color: #8FBC8F;
+    overscroll-behavior-y: contain;
+    -webkit-user-select: none;
+    -webkit-tap-highlight-color: transparent;
+    -webkit-touch-callout: none;
+}
+
+h1, h2, h3, p {
+    color: #ffffff;
+}
+
+img {
+	width: 50%;
+}
